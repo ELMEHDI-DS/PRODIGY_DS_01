@@ -8,10 +8,4 @@ World Bank Population Data:https://data.worldbank.org/indicator/SP.POP.TOTL
 
 ## Description:
 
-Data Loading: The population data was loaded from the World Bank.
-Data Processing: The data was processed to extract the relevant categorical or continuous variables required for visualization.
-Visualizations: A Histogram was created to visualize the distribution of population growth rates between 2022 and 2023.
-A Bar Chart was created to visualize the top 10 countries with the smallest populations in 2023.
-Libraries Used:
-Pandas: For data manipulation and processing.
-Matplotlib & Seaborn: For creating the visualizations.
+This project focuses on visualizing population data from the World Bank to explore the distribution of population growth rates and population sizes across countries. Using Python's pandas for data manipulation and Seaborn/Matplotlib for visualization, the project provides insights into the demographic trends by creating a histogram to display the distribution of population growth rates between 2022 and 2023, and a bar chart to highlight the top 10 countries with the smallest populations in 2023. This project serves as an illustrative example of how to effectively visualize and interpret large datasets to uncover meaningful patterns and trends.
